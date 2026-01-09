@@ -24,7 +24,7 @@ Antes de começar, você precisará ter instalado em sua máquina:
 ## 🔧 Instalação e Execução
 1. Clone o repositório:
    ```bash
-   git clone [LINK_DO_SEU_REPO]
+   git clone https://github.com/amaxsilva/qa-challenge-frontend.git
    ```
    
 2. Instale as dependências:
